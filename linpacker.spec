@@ -1,6 +1,6 @@
 %define name linpacker
 %define version 0.7.1
-%define release %mkrel 2
+%define release %mkrel 4
 
 Summary:        Tool for 2D bin packing
 Name:           %{name}
