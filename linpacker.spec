@@ -8,7 +8,7 @@ Version:        %{version}
 Release:        %{release}
 License:        GPLv2+
 Group:          Sciences/Mathematics
-URL:            http://freehackers.org/~tnagy/linpacker/
+URL:            https://freehackers.org/~tnagy/linpacker/
 Source0:        http://freehackers.org/~tnagy/linpacker/%{name}-%{version}.tar.bz2
 BuildRoot:      %{_tmppath}/%{name}-buildroot
 BuildRequires:	qt4-devel 
